@@ -26,16 +26,6 @@ body {
   padding: 24px;
 }
 
-.header{
-  display: flex;
-  column-gap: 16px;
-}
-
-.userInfo{
-  display: flex;
-  flex-direction: column;
-  row-gap: 1px;
-}
 
 .credits {
   color: #777;
