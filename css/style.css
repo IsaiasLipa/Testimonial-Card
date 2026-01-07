@@ -16,6 +16,27 @@ body {
   box-sizing: border-box;
 }
 
+.card-container{
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  max-width: 340px;
+  max-height: 233px;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+.header{
+  display: flex;
+  column-gap: 16px;
+}
+
+.userInfo{
+  display: flex;
+  flex-direction: column;
+  row-gap: 1px;
+}
+
 .credits {
   color: #777;
   position: fixed;
