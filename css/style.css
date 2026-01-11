@@ -16,16 +16,6 @@ body {
   box-sizing: border-box;
 }
 
-.card-container{
-  display: flex;
-  flex-direction: column;
-  row-gap: 16px;
-  max-width: 340px;
-  max-height: 233px;
-  border-radius: 8px;
-  padding: 24px;
-}
-
 
 .credits {
   color: #777;
